@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Rashi Agarwal 👋
 
-<!--
-**rashi25bcy10248-svg/rashi25bcy10248-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 1st year Computer Science Engineering student  
 
-Here are some ideas to get you started:
+💡 I’ve recently started my journey in programming and web development, and I’m really enjoying learning how things work behind the scenes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 My goal is to improve my problem-solving skills and gradually build real-world projects that I can be proud of.
+
+---
+
+## 🛠️ Skills
+
+- HTML (Basics)  
+- CSS (Basics)  
+- JavaScript (Learning)  
+- C Programming (Basics)  
+
+---
+
+## 📚 Currently Learning
+
+- Web Development  
+- Data Structures (Beginner Level)  
+
+---
+
+## 🎯 My Goals
+
+- Build my first portfolio website  
+- Start uploading projects on GitHub  
+- Become confident in coding and problem-solving  
+
+---
+
+## 🌱 A Little About Me
+
+I’m someone who enjoys learning new things and exploring technology step by step.  
+Right now, I’m focused on building a strong foundation and improving every day.
